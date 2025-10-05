@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Thet San!
+# Hiii, I'm Thet San :>
 📚 3rd year Computer Engineering Student at King Mongkut's Institute of Technology Latkrabang<br/>
 📧 contact me at: thetsanhtar0201@gmail.com
 
