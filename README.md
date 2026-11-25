@@ -16,8 +16,3 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thetsanh&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=thetsanh&icon=9&color=10)](https://visitcount.itsvg.in)
